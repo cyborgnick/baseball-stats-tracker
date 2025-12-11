@@ -1,0 +1,6 @@
+node_modules/
+.env
+baseball_stats.db
+uploads/
+*.log
+.DS_Store
